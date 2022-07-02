@@ -1,0 +1,44 @@
+.kotakbesar{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+
+}
+
+.kotakkecil1{
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+
+}
+
+.kotakkecil2{
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+    margin-top: 100px;
+}
+
+.kotakkecil3{
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+    margin-left: 175px;
+    margin-top: -75px;
+}
+
+.kotakkecil4{
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+    margin-left: 175px;
+    margin-top: -250px;
+}
+
+.kotakkecil5{
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+    margin-left: 88px;
+    margin-top: 13px;
+}
